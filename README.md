@@ -1,4 +1,4 @@
-# Employee-Attrition-Prediction-Using-Machine-Learning
+#  Retail Sales Data with Seasonal Trends and Marketing
 
 ## 📌 Project Overview
 This project focuses on analyzing and predicting retail sales using a real-world dataset containing product, supplier, and sales information. The goal is to understand key factors affecting sales and build a predictive model.
